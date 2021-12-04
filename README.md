@@ -1,0 +1,2 @@
+# Indieflix
+Indieflix is the OTT platform. This project is all about creating an OTT platform(Website) &amp; hosting it using AWS. All the contents used in the website belong to their respective owners and I or this website does not claim any right over them. Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.
